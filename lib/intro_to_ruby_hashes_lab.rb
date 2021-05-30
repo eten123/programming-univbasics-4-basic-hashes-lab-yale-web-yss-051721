@@ -16,12 +16,11 @@ def pioneer
 end
 
 def id_hash_generator(number)
-  number = 8
+  
   hash = {
-    :number => number
+    :id => number
   }
   return number # return a hash with a key :id assigned to the provided number
-end
-
+end 
 
 
