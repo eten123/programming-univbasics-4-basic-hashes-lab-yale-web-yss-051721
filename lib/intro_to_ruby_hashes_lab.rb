@@ -4,7 +4,7 @@ end
 
 def my_hash
   prices = {
-    :car => 45,000
+    :car => 45000
   }# return a valid hash with any key/value pair of your choice
 end
 
